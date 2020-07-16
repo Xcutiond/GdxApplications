@@ -1,2 +1,3 @@
+include ':gdxlib'
 include ':app'
 rootProject.name = "GdxApplications"
